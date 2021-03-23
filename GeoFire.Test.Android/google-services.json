@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "455905493719",
+    "firebase_url": "https://petmap-b221f.firebaseio.com",
+    "project_id": "petmap-b221f",
+    "storage_bucket": "petmap-b221f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455905493719:android:a466aac80d99eebe",
+        "android_client_info": {
+          "package_name": "GeoFire.Android.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6B5MDpJNesWcQyFWUI7lltQ5QB9W8Zd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455905493719-r63g46jbuol0499pdfkbnbv16r6bd3c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exxbrain.Firebase-Test-iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455905493719:android:e33b1c69d682d3fd4d2692",
+        "android_client_info": {
+          "package_name": "GeoFire.Test.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6B5MDpJNesWcQyFWUI7lltQ5QB9W8Zd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455905493719-r63g46jbuol0499pdfkbnbv16r6bd3c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exxbrain.Firebase-Test-iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455905493719:android:869735b610e2f43a",
+        "android_client_info": {
+          "package_name": "com.exxbrain.petmapxamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6B5MDpJNesWcQyFWUI7lltQ5QB9W8Zd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455905493719-eulncvs78tdvhktb4n473bn7senq963r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455905493719-r63g46jbuol0499pdfkbnbv16r6bd3c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exxbrain.Firebase-Test-iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
